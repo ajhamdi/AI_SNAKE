@@ -1,0 +1,2604 @@
+# depslib dependency file v1.0
+1490771330 source:/home/hamdiaj/Documents/01_hello_SDL/01_hello_SDL.cpp
+	<SDL2/SDL.h>
+	<stdio.h>
+
+1490772570 source:/home/hamdiaj/Documents/02_getting_an_image_on_the_screen/02_getting_an_image_on_the_screen.cpp
+	<SDL2/SDL.h>
+	<stdio.h>
+
+1492408694 source:/home/hamdiaj/Documents/SDL/02_getting_an_image_on_the_screen/02_getting_an_image_on_the_screen.cpp
+	<SDL2/SDL.h>
+	<stdio.h>
+
+1492410440 source:/home/hamdiaj/Documents/SDL/03_event_driven_programming/03_event_driven_programming.cpp
+	<SDL2/SDL.h>
+	<stdio.h>
+
+1492414805 source:/home/hamdiaj/Documents/SDL/04_key_presses/04_key_presses.cpp
+	<SDL2/SDL.h>
+	<stdio.h>
+	<string>
+
+1492452402 source:d:\mywork\cpp_programming\sdl\04_key_presses\04_key_presses.cpp
+	<SDL.h>
+	<stdio.h>
+	<string>
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\close_code.h
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\hamdiaj\documents\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1492452192 source:d:\mywork\cpp_programming\sdl\01_hello_sdl\01_hello_sdl.cpp
+	<SDL.h>
+	<stdio.h>
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\hamdiaj\documents\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\begin_code.h
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\close_code.h
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\sdl\dev_lib\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1492452840 source:d:\mywork\cpp_programming\sdl\02_getting_an_image_on_the_screen\02_getting_an_image_on_the_screen.cpp
+	<SDL.h>
+	<stdio.h>
+
+1492502591 source:d:\mywork\cpp_programming\sdl\06_extension_libraries_and_loading_other_image_formats\06_extension_libraries_and_loading_other_image_formats.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
+1451800373 d:\mywork\cpp_programming\sdl\dev_lib2\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1492544643 source:d:\mywork\cpp_programming\sdl\16_true_type_fonts\16_true_type_fonts.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<cmath>
+
+1454362933 d:\mywork\cpp_programming\sdl\dev_lib3\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1492515814 source:d:\mywork\cpp_programming\sdl\07_texture_loading_and_rendering\07_texture_loading_and_rendering.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
+1492541593 source:d:\mywork\cpp_programming\sdl\08_geometry_rendering\08_geometry_rendering.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<cmath>
+
+1423445671 source:d:\mywork\cpp_programming\sdl\18_key_states\18_key_states.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
+1492603929 source:d:\mywork\cpp_programming\sdl\22_timing\22_timing.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+
+1492607642 source:d:\mywork\cpp_programming\sdl\23_advanced_timers\23_advanced_timers.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+
+1492610532 source:d:\mywork\cpp_programming\sdl\24_calculating_frame_rate\24_calculating_frame_rate.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+
+1492611516 source:d:\mywork\cpp_programming\sdl\26_motion\26_motion.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
+1492616687 source:d:\mywork\cpp_programming\sdl\27_collision_detection\27_collision_detection.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
+1492628579 source:d:\mywork\cpp_programming\sdl\old\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	<sstream>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1493556666 source:d:\mywork\cpp_programming\sdl\graph\snake.cpp
+	"Snake.h"
+
+1493741084 source:d:\mywork\cpp_programming\sdl\graph\gamemaster.cpp
+	"GameMaster.h"
+
+1493396617 d:\mywork\cpp_programming\sdl\graph\gamemaster.h
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	<string>
+	"Snake.h"
+
+1493465790 d:\mywork\cpp_programming\sdl\graph\snake.h
+	"LTexture.h"
+
+1493741264 d:\mywork\cpp_programming\sdl\graph\ltexture.h
+	<iostream>
+	<sstream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cctype>
+	<string>
+	<iomanip>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1493407080 source:d:\mywork\cpp_programming\sdl\graph\ltexture.cpp
+	"LTexture.h"
+
+1493390040 source:d:\mywork\cpp_programming\sdl\graph\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<cctype>
+	"GameMaster.h"
+
+1493741084 source:c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\graph\gamemaster.cpp
+	"GameMaster.h"
+
+1493396617 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\graph\gamemaster.h
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	<string>
+	"Snake.h"
+
+1493465790 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\graph\snake.h
+	"LTexture.h"
+
+1493741264 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\graph\ltexture.h
+	<iostream>
+	<sstream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cctype>
+	<string>
+	<iomanip>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\begin_code.h
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\close_code.h
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451800373 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib2\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454362933 c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\dev_lib3\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1493407080 source:c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\graph\ltexture.cpp
+	"LTexture.h"
+
+1493390040 source:c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\graph\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<cctype>
+	"GameMaster.h"
+
+1493556666 source:c:\users\mosobay\dropbox (mit)\kaust\spring\sdl_hamdi\sdl\graph\snake.cpp
+	"Snake.h"
+
+1494062521 source:c:\users\mosobay\desktop\working snake build - copy\gamemaster.cpp
+	"GameMaster.h"
+
+1493396617 c:\users\mosobay\desktop\working snake build - copy\gamemaster.h
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	<string>
+	"Snake.h"
+
+1494062134 c:\users\mosobay\desktop\working snake build - copy\snake.h
+	"LTexture.h"
+
+1493998374 c:\users\mosobay\desktop\working snake build - copy\ltexture.h
+	<iostream>
+	<sstream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cctype>
+	<string>
+	<iomanip>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1493407080 source:c:\users\mosobay\desktop\working snake build - copy\ltexture.cpp
+	"LTexture.h"
+
+1493390040 source:c:\users\mosobay\desktop\working snake build - copy\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<cctype>
+	"GameMaster.h"
+
+1494062791 source:c:\users\mosobay\desktop\working snake build - copy\snake.cpp
+	"Snake.h"
+	<stdlib.h>
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\begin_code.h
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\close_code.h
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\mosobay\desktop\working snake build - copy\dev_lib\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451800373 c:\users\mosobay\desktop\working snake build - copy\dev_lib2\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454362933 c:\users\mosobay\desktop\working snake build - copy\dev_lib3\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1494079853 source:d:\mywork\cpp_programming\working snake build - copy\gamemaster.cpp
+	"GameMaster.h"
+
+1494076231 d:\mywork\cpp_programming\working snake build - copy\gamemaster.h
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	<string>
+	"Snake.h"
+
+1494080120 d:\mywork\cpp_programming\working snake build - copy\snake.h
+	"LTexture.h"
+
+1494072515 d:\mywork\cpp_programming\working snake build - copy\ltexture.h
+	<iostream>
+	<sstream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cctype>
+	<string>
+	<iomanip>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\begin_code.h
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\close_code.h
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - copy\dev_lib\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451800373 d:\mywork\cpp_programming\working snake build - copy\dev_lib2\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454362933 d:\mywork\cpp_programming\working snake build - copy\dev_lib3\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1493407080 source:d:\mywork\cpp_programming\working snake build - copy\ltexture.cpp
+	"LTexture.h"
+
+1493390040 source:d:\mywork\cpp_programming\working snake build - copy\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<cctype>
+	"GameMaster.h"
+
+1494080235 source:d:\mywork\cpp_programming\working snake build - copy\snake.cpp
+	"Snake.h"
+	<stdlib.h>
+
+1494085767 source:d:\mywork\cpp_programming\working snake build - original\ltexture.cpp
+	"LTexture.h"
+
+1502486103 d:\mywork\cpp_programming\working snake build - original\ltexture.h
+	<iostream>
+	<sstream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cctype>
+	<string>
+	<iomanip>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\begin_code.h
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\close_code.h
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 d:\mywork\cpp_programming\working snake build - original\dev_lib\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451800373 d:\mywork\cpp_programming\working snake build - original\dev_lib2\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454362933 d:\mywork\cpp_programming\working snake build - original\dev_lib3\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1499949761 source:d:\mywork\cpp_programming\working snake build - original\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<cctype>
+	"GameMaster.h"
+
+1499948215 d:\mywork\cpp_programming\working snake build - original\gamemaster.h
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	<string>
+	"Snake.h"
+
+1499948654 d:\mywork\cpp_programming\working snake build - original\snake.h
+	"LTexture.h"
+
+1499947832 source:d:\mywork\cpp_programming\working snake build - original\gamemaster.cpp
+	"GameMaster.h"
+
+1499950113 source:d:\mywork\cpp_programming\working snake build - original\snake.cpp
+	"Snake.h"
+	<stdlib.h>
+
