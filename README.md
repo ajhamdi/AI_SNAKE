@@ -1,4 +1,4 @@
-##AI snake game 
+<h1>AI snake game</h1> 
 This is an AI snake game with intellignet snakes chasing the fruit and the player has to eat as much fruit as he can before the other snakes ... the more you wait the harder it becomes ... enjoy.. score appears appears on the cmd after you die 
 
 the game is written in C++ using SDL2 graphics library.. 
